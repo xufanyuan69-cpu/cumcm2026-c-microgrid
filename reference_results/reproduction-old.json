@@ -1,0 +1,22 @@
+[
+  {
+    "model": "Q3-old",
+    "days": 334,
+    "total_cost_mean_yuan_per_day": 49662.55243884651,
+    "reference_total_cost": 49662.5524,
+    "cost_delta": 3.884651232510805e-05,
+    "emergency_energy_mean_kWh_per_day": 2965.666249531791,
+    "emergency_days": 332,
+    "soc_residual_max_kWh": 3.637978807091713e-12
+  },
+  {
+    "model": "Q4-3-old",
+    "days": 334,
+    "total_cost_mean_yuan_per_day": 52154.98316526664,
+    "reference_total_cost": 52154.9832,
+    "cost_delta": -3.473336255410686e-05,
+    "emergency_energy_mean_kWh_per_day": 3012.9228942514846,
+    "emergency_days": 333,
+    "soc_residual_max_kWh": 3.637978807091713e-12
+  }
+]

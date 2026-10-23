@@ -1,0 +1,42 @@
+[
+  {
+    "model": "Q2",
+    "days": 334,
+    "total_cost_mean_yuan_per_day": 50832.035657090375,
+    "reference_total_cost": 50832.0523,
+    "cost_delta": -0.016642909627989866,
+    "emergency_energy_mean_kWh_per_day": 473.4467241966188,
+    "emergency_days": 117,
+    "soc_residual_max_kWh": 1.0231815394945443e-12
+  },
+  {
+    "model": "Q3-risk",
+    "days": 334,
+    "total_cost_mean_yuan_per_day": 52389.93205233311,
+    "reference_total_cost": 52389.9321,
+    "cost_delta": -4.7666886530350894e-05,
+    "emergency_energy_mean_kWh_per_day": 96.16873435641975,
+    "emergency_days": 82,
+    "soc_residual_max_kWh": 1.8189894035458565e-12
+  },
+  {
+    "model": "Q4-2",
+    "days": 334,
+    "total_cost_mean_yuan_per_day": 51287.10071204093,
+    "reference_total_cost": 51286.8639,
+    "cost_delta": 0.23681204093009,
+    "emergency_energy_mean_kWh_per_day": 481.4211439397073,
+    "emergency_days": 119,
+    "soc_residual_max_kWh": 1.0231815394945443e-12
+  },
+  {
+    "model": "Q4-3-risk",
+    "days": 334,
+    "total_cost_mean_yuan_per_day": 52887.98366756612,
+    "reference_total_cost": 52887.9837,
+    "cost_delta": -3.2433876185677946e-05,
+    "emergency_energy_mean_kWh_per_day": 98.4060853345992,
+    "emergency_days": 87,
+    "soc_residual_max_kWh": 1.8189894035458565e-12
+  }
+]
